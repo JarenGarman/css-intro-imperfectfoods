@@ -11,7 +11,12 @@ p {
 
 button {
   background-color: #B32274;
+  font-size: 1.5em;
   color: white;
+  height: 2em;
+  width: 10em;
+  border: 1px solid #B32274;
+  border-radius: 0.5em;
 }
 
 img {
